@@ -1,5 +1,3 @@
-<img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/314b6298-afd6-4d34-9984-26da783a730f" /># Vehicle's Automatic Headlights Control System
-
 ## Description
 An automatic vehicle's headlight control system that automatically switches ON/OFF headlights based on surrounding light intensity using an LDR sensor and relay circuit.
 
